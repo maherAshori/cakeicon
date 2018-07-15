@@ -2,7 +2,7 @@
 font icons for store projects
 
 
-<a href="https://cakeicon.bonakbar.com">demo</a>
+<a href="http://cakeicon.bonakbar.com">demo</a>
 
 ### wiki
 
