@@ -1,0 +1,189 @@
+@font-face {
+    font-family: 'cakeicon';
+    src: url('fonts/cakeicon.eot?k7mbe5');
+    src: url('fonts/cakeicon.eot?k7mbe5#iefix') format('embedded-opentype'), url('fonts/cakeicon.ttf?k7mbe5') format('truetype'), url('fonts/cakeicon.woff?k7mbe5') format('woff'), url('fonts/cakeicon.svg?k7mbe5#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="ci"], [class*="ci"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'cakeicon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ci.ci-2x {
+    font-size: 2em;
+}
+
+.ci.ci-3x {
+    font-size: 3em;
+}
+
+.ci.ci-4x {
+    font-size: 4em;
+}
+
+.ci.ci-5x {
+    font-size: 5em;
+}
+
+.ci.ci-address-plus:before {
+    content: "\e900";
+}
+
+.ci.ci-address-plus-alt:before {
+    content: "\e901";
+}
+
+.ci.ci-back:before {
+    content: "\e902";
+}
+
+.ci.ci-back-alt:before {
+    content: "\e903";
+}
+
+.ci.ci-cake:before {
+    content: "\e904";
+}
+
+.ci.ci-cake-alt:before {
+    content: "\e905";
+}
+
+.ci.ci-buy:before {
+    content: "\e906";
+}
+
+.ci.ci-buy-alt:before {
+    content: "\e907";
+}
+
+.ci.ci-close:before {
+    content: "\e908";
+}
+
+.ci.ci-close-alt:before {
+    content: "\e909";
+}
+
+.ci.ci-check:before {
+    content: "\e90a";
+}
+
+.ci.ci-check-alt:before {
+    content: "\e90b";
+}
+
+.ci.ci-doc-edit:before {
+    content: "\e90c";
+}
+
+.ci.ci-doc-edit-alt:before {
+    content: "\e90f";
+}
+
+.ci.ci-address-minus:before {
+    content: "\e90d";
+}
+
+.ci.ci-address-minus-alt:before {
+    content: "\e90e";
+}
+
+.ci.ci-filter:before {
+    content: "\e910";
+}
+
+.ci.ci-filter-alt:before {
+    content: "\e911";
+}
+
+.ci.ci-star:before {
+    content: "\e912";
+}
+
+.ci.ci-address-marked-place:before {
+    content: "\e913";
+}
+
+.ci.ci-menu-bar:before {
+    content: "\e914";
+}
+
+.ci.ci-microphone:before {
+    content: "\e915";
+}
+
+.ci.ci-address-direction:before {
+    content: "\e916";
+}
+
+.ci.ci-address-direction-alt:before {
+    content: "\e917";
+}
+
+.ci.ci-doc-star:before {
+    content: "\e918";
+}
+
+.ci.ci-doc-star-alt:before {
+    content: "\e919";
+}
+
+.ci.ci-news:before {
+    content: "\e91a";
+}
+
+.ci.ci-news-alt:before {
+    content: "\e91b";
+}
+
+.ci.ci-address-placeholder:before {
+    content: "\e935";
+}
+
+.ci.ci-address-placeholder-alt:before {
+    content: "\e936";
+}
+
+.ci.ci-user:before {
+    content: "\e94d";
+}
+
+.ci.ci-user-alt:before {
+    content: "\e94e";
+}
+
+.ci.ci-magnifier:before {
+    content: "\e94f";
+}
+
+.ci.ci-share:before {
+    content: "\e950";
+}
+
+.ci.ci-share-alt:before {
+    content: "\e951";
+}
+
+.ci.ci-trash:before {
+    content: "\e952";
+}
+
+.ci.ci-trash-alt:before {
+    content: "\e953";
+}
+
+.ci.ci-users:before {
+    content: "\e954";
+}
