@@ -1,7 +1,7 @@
 # cakeicon
 font icons for store projects
 
-latest version: 0.0.2
+latest version: 0.0.1
 
 <a href="http://cakeicon.bonakbar.com">demo</a>
 
