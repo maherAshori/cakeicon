@@ -1,189 +1,168 @@
 @font-face {
-    font-family: 'cakeicon';
-    src: url('fonts/cakeicon.eot?k7mbe5');
-    src: url('fonts/cakeicon.eot?k7mbe5#iefix') format('embedded-opentype'), url('fonts/cakeicon.ttf?k7mbe5') format('truetype'), url('fonts/cakeicon.woff?k7mbe5') format('woff'), url('fonts/cakeicon.svg?k7mbe5#icomoon') format('svg');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'cakeicon';
+  src:  url('fonts/cakeicon.eot?eqxu6h');
+  src:  url('fonts/cakeicon.eot?eqxu6h#iefix') format('embedded-opentype'),
+    url('fonts/cakeicon.ttf?eqxu6h') format('truetype'),
+    url('fonts/cakeicon.woff?eqxu6h') format('woff'),
+    url('fonts/cakeicon.svg?eqxu6h#cakeicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
-[class^="ci"], [class*="ci"] {
+.ci {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'cakeicon' !important;
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
-    /* Better Font Rendering =========== */
-    -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
 }
 
-.ci.ci-2x {
+.ci-2x {
     font-size: 2em;
 }
 
-.ci.ci-3x {
+.ci-3x {
     font-size: 3em;
 }
 
-.ci.ci-4x {
+.ci-4x {
     font-size: 4em;
 }
 
-.ci.ci-5x {
+.ci-5x {
     font-size: 5em;
 }
 
-.ci.ci-address-plus:before {
-    content: "\e900";
-}
-
-.ci.ci-address-plus-alt:before {
-    content: "\e901";
-}
-
-.ci.ci-back:before {
-    content: "\e902";
-}
-
-.ci.ci-back-alt:before {
-    content: "\e903";
-}
-
-.ci.ci-cake:before {
-    content: "\e904";
-}
-
-.ci.ci-cake-alt:before {
-    content: "\e905";
-}
-
-.ci.ci-buy:before {
-    content: "\e906";
-}
-
-.ci.ci-buy-alt:before {
-    content: "\e907";
-}
-
-.ci.ci-close:before {
-    content: "\e908";
-}
-
-.ci.ci-close-alt:before {
-    content: "\e909";
-}
-
-.ci.ci-check:before {
-    content: "\e90a";
-}
-
-.ci.ci-check-alt:before {
-    content: "\e90b";
-}
-
-.ci.ci-doc-edit:before {
-    content: "\e90c";
-}
-
-.ci.ci-doc-edit-alt:before {
-    content: "\e90f";
-}
-
-.ci.ci-address-minus:before {
-    content: "\e90d";
-}
-
-.ci.ci-address-minus-alt:before {
-    content: "\e90e";
-}
-
-.ci.ci-filter:before {
-    content: "\e910";
-}
-
-.ci.ci-filter-alt:before {
-    content: "\e911";
-}
-
-.ci.ci-star:before {
-    content: "\e912";
-}
-
-.ci.ci-address-marked-place:before {
-    content: "\e913";
-}
-
-.ci.ci-menu-bar:before {
-    content: "\e914";
-}
-
-.ci.ci-microphone:before {
-    content: "\e915";
-}
-
 .ci.ci-address-direction:before {
-    content: "\e916";
+  content: "\e900";
 }
-
 .ci.ci-address-direction-alt:before {
-    content: "\e917";
+  content: "\e901";
 }
-
-.ci.ci-doc-star:before {
-    content: "\e918";
+.ci.ci-address-mark:before {
+  content: "\e902";
 }
-
-.ci.ci-doc-star-alt:before {
-    content: "\e919";
+.ci.ci-address-mark-alt:before {
+  content: "\e903";
 }
-
-.ci.ci-news:before {
-    content: "\e91a";
+.ci.ci-address-minus:before {
+  content: "\e904";
 }
-
-.ci.ci-news-alt:before {
-    content: "\e91b";
+.ci.ci-address-minus-alt:before {
+  content: "\e905";
 }
-
 .ci.ci-address-placeholder:before {
-    content: "\e935";
+  content: "\e906";
 }
-
 .ci.ci-address-placeholder-alt:before {
-    content: "\e936";
+  content: "\e907";
 }
-
-.ci.ci-user:before {
-    content: "\e94d";
+.ci.ci-address-plus:before {
+  content: "\e908";
 }
-
-.ci.ci-user-alt:before {
-    content: "\e94e";
+.ci.ci-address-plus-alt:before {
+  content: "\e909";
 }
-
-.ci.ci-magnifier:before {
-    content: "\e94f";
+.ci.ci-back:before {
+  content: "\e90a";
 }
-
+.ci.ci-back-alt:before {
+  content: "\e90b";
+}
+.ci.ci-cart:before {
+  content: "\e91b";
+}
+.ci.ci-cart-alt:before {
+  content: "\e91c";
+}
+.ci.ci-check:before {
+  content: "\e91d";
+}
+.ci.ci-check-alt:before {
+  content: "\e91e";
+}
+.ci.ci-close:before {
+  content: "\e91f";
+}
+.ci.ci-close-alt:before {
+  content: "\e920";
+}
+.ci.ci-doc-edit:before {
+  content: "\e921";
+}
+.ci.ci-doc-edit-alt:before {
+  content: "\e922";
+}
+.ci.ci-doc-favorite:before {
+  content: "\e923";
+}
+.ci.ci-doc-favorite-alt:before {
+  content: "\e924";
+}
+.ci.ci-filter:before {
+  content: "\e92a";
+}
+.ci.ci-filter-alt:before {
+  content: "\e92b";
+}
+.ci.ci-menu:before {
+  content: "\e92c";
+}
+.ci.ci-menu-alt:before {
+  content: "\e92d";
+}
+.ci.ci-microphone:before {
+  content: "\e92e";
+}
+.ci.ci-microphone-alt:before {
+  content: "\e92f";
+}
+.ci.ci-news:before {
+  content: "\e930";
+}
+.ci.ci-news-alt:before {
+  content: "\e931";
+}
+.ci.ci-price-sorting-down:before {
+  content: "\e932";
+}
+.ci.ci-purchase-empty:before {
+  content: "\e925";
+}
+.ci.ci-purchase-empty-alt:before {
+  content: "\e926";
+}
+.ci.ci-refunds:before {
+  content: "\e94a";
+}
+.ci.ci-refunds-alt:before {
+  content: "\e94b";
+}
+.ci.ci-search:before {
+  content: "\e94c";
+}
+.ci.ci-search-alt:before {
+  content: "\e94d";
+}
 .ci.ci-share:before {
-    content: "\e950";
+  content: "\e94e";
 }
-
 .ci.ci-share-alt:before {
-    content: "\e951";
+  content: "\e94f";
 }
-
 .ci.ci-trash:before {
-    content: "\e952";
+  content: "\e950";
 }
-
 .ci.ci-trash-alt:before {
-    content: "\e953";
+  content: "\e951";
 }
-
-.ci.ci-users:before {
-    content: "\e954";
+.ci.ci-user:before {
+  content: "\e952";
+}
+.ci.ci-user-alt:before {
+  content: "\e953";
 }
